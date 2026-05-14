@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Region1__c</fullName>
+    <label>Region1</label>
+    <referenceTo>Region__c</referenceTo>
+    <relationshipLabel>Subsidiary Offices (Region1)</relationshipLabel>
+    <relationshipName>Subsidiary_Offices1</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
